@@ -1,4 +1,4 @@
-  }, config.movement['circle-walk'].speed);
+}, config.movement['circle-walk'].speed);
 }
 
 function startRandomJump(bot) {
