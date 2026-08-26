@@ -2,14 +2,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SenpaiSoull",
+    "username": "KAKAS2771",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "ip": "ujalasmp.dpdns.org",
+    "port": 51782,
+    "version": "1.26.1"
   },
   "position": {
     "enabled": true,
